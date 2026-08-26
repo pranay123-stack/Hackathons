@@ -15,7 +15,7 @@ page points at them rather than copying them.
 | [hook-explorer](https://github.com/pranay123-stack/hook-explorer) | Grant application (not a hackathon) | 383+ tests, Playwright e2e, CI |
 
 The strongest of these are featured in
-[Onchain Protocol Engineering](https://github.com/pranay123-stack/onchain-protocol-engineering) —
+[Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure) —
 hackathon origin is a fact about when something was built, not a measure of its quality.
 
 *This repository previously held a duplicate copy of `nba-prediction-edge`. That copy has
